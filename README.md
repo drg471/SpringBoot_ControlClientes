@@ -44,6 +44,7 @@ En el desarrollo de esta aplicación, se han empleado diversas tecnologías y he
 
 - **Java** .
 - **Spring Boot** .
+- **HTML**
 - **MySQL** .
 - **IntelliJ** .
 
